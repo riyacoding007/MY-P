@@ -1,5 +1,5 @@
 *{
-    background-color: rgb(175, 236, 149);
+    background-color: rgb(213, 210, 195);
 }
 .name h1{
     width: 200px;
@@ -9,29 +9,30 @@
     border-radius: 6px;
     background: rgb(240, 237, 178);
 }
-/* h1 {
-    border: 3px solid black;
-    padding: 10px;
-    text-align: center;
-    width: 50%;
-} */
+
  .about-me{
-    padding: 10px 0;
-    left: 0px;
+    padding: 0px 0;
+    float: right;
+ }
+ .about-me b{
+    top: 0;
  }
 .about-me p{
     width: 420px;
     text-align: left;
+    margin: px; 
+    float: right;
     padding: 10px;
     border: 1px solid;
     border-radius: 6px;
     border-left: 0;
     border-right: 0;
-    background: rgb(8, 232, 57);
+    background: rgb(240, 237, 178);
 }
 .contact{
     padding: 10px 0px;
 }
-.list{
+.list {
     padding: 10px 0;
+    
 }
